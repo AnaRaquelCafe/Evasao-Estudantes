@@ -1,6 +1,6 @@
 # Evasao-Estudantes
 
-Este projeto consta na criação de um modelo preditivo para prever a evasão ou formação de um estudante dentro de uma faculdade portuguesa. Para a escolha do modelo preditivo ideal, será testadas várias técnicas de modelos supervisionados, desde modelos de machine learning até  modelos de deep learning. Técnas sobre oversampling e feature engeneering também serão abordadas neste projeto! Nosso resultado final será uma aplicação para receber algumas informações sobre estudantes e retornar a classificação da probabilidade da possível formação ou evasão dos estudantes. 
+Este projeto consta na criação de um modelo preditivo para prever a evasão ou formação de um estudantes dentro de uma faculdade portuguesa. Para a escolha do modelo preditivo ideal, serão testadas várias técnicas de **modelos supervisionados**, desde modelos de **machine learning** até  modelos de **deep learning**. Também serão abordadas técnicas sobre **oversampling** e **feature engeneering** neste projeto! Nosso resultado final será uma **aplicação** no Streamlit para receber algumas informações sobre estudantes e retornar a **classificação da probabilidade da possível formação ou evasão dos estudantes**. Vamos aprender a criar do zero?
 
 ![gig lisa](https://github.com/AnaRaquelCafe/Evasao-Estudantes/assets/46449538/4ae7ce8a-fdb8-416b-9ad5-c3332c545740)
 
